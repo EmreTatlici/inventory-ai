@@ -5,7 +5,7 @@ AI-supported inventory tracking system with Django | AI destekli urun/stok takip
 ![Screenshot 2025-05-13 at 15-09-44 AI Destekli Stok Analizi](https://github.com/user-attachments/assets/7a3ca623-7b74-4627-8e2c-fd148d19a1cb)
 
 ****
-#English Description
+# English Description
 
 ## Inventory AI is a Django-based inventory management system enhanced with AI support using Cohere API. The application allows users to:
   •	Add and list inventory products,
